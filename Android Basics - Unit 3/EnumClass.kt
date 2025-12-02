@@ -25,7 +25,7 @@ fun main () {
     val question2 = Question<Int>(
         "What is 2 + 2?",
         4,
-        Difficulty.EASY
+        Difficulty.EASY 
     )
     val question3 = Question<Boolean>(
         "Is the sky blue?",
